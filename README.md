@@ -1,3 +1,4 @@
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <h2>Hey there! I'm Cesare</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Cesare -->
@@ -9,7 +10,6 @@
 ✉️ &nbsp;You can shoot me an email at cesare.polonara@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Website](https://mc-polonara.vercel.app/) for more details about me and my works. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
