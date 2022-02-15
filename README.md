@@ -1,5 +1,3 @@
-![Cesare Polonara](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-
 <h2>Hey there! I'm Cesare</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Cesare -->
@@ -31,7 +29,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://mc-polonara.vercel.app/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kais3rP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kais3rP&layout=compact&langs_count=8&theme=algolia"/>
 </a>
