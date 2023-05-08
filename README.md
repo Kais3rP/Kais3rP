@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop smart software solutions.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at cesare.polonara@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Website](https://mc-polonara.vercel.app/) for more details about me and my works. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Website](https://cesarepolonara.com/) for more details about me and my works. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack
